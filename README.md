@@ -53,7 +53,7 @@ A high-performance RESTful API service for real-time currency conversion, integr
 
 *   **Author:** Andrzej Tyrpa (GitHub: @andrzej-t)
 *   **Live Demo:** 
-*   **Frontend Repository:** 
+*   **Frontend Repository:** https://github.com/andrzej-t/currency-converter-front.git
 
 ## 📄 License
 
